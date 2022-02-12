@@ -20,4 +20,10 @@ Check the solution **[Here](https://github.com/DimKaisaris/Exercises-in-Excel/bl
 
 ![sho2](images/shot2.png)
 
+## 3) Using Ms Excel as a Database tool
+In this one I used the functions vlookup,index,match,offset as well as  
+data validation methods. Check the solution **[Here](https://github.com/DimKaisaris/Exercises-in-Excel/blob/main/processed%20files/ex_3.xlsx)**
+
+![shot3](images/shot3.png)
+
 
