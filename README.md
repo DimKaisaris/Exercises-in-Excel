@@ -7,6 +7,9 @@ course "Data Analyst" from National and Kapodistrian University of Athens.
 - Descriptive statistics
 - Using Ms Excel as a Database tool
 
-## Control structures in ms excel
+##  1) Control structures in ms excel
 To see the raw data from all the exercises use this **[Link](https://github.com/DimKaisaris/Exercises-in-Excel/tree/main/raw%20files)**
+Check the solution is this **[File](https://github.com/DimKaisaris/Exercises-in-Excel/blob/main/processed%20files/ex_1.xlsx)**
+
+![shot1](images/shot1.png)
 
