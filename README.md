@@ -15,7 +15,8 @@ Check the solution is this **[File](https://github.com/DimKaisaris/Exercises-in-
 
 ## 2) Descriptive statistics
 In this exercise I calculate many statistics using functions as : min, max,  
-average, var.p and validate them using the data analysis tool!
+average, var.p and validate them using the data analysis tool!  
+Also I calculated and plotted CDF,PDF
 Check the solution **[Here](https://github.com/DimKaisaris/Exercises-in-Excel/blob/main/processed%20files/set2.xlsx)**
 
 ![sho2](images/shot2.png)
