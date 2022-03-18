@@ -1,7 +1,7 @@
 # Exercises-in-Excel
 
 ## Project Overview
-In this project I am using Excel to solve various tasks  using Ms Excel  
+In this project I am using Excel working on various tasks as:  
   
 - Control structures in ms excel
 - Descriptive statistics
