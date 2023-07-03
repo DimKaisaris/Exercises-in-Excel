@@ -1,7 +1,7 @@
 # Exercises-in-Excel
 
 ## Project Overview
-In this project I am using Excel working on various tasks as:  
+In this project, I am using Excel to work on various tasks such as:  
   
 - Control structures in ms excel
 - Descriptive statistics
@@ -14,9 +14,9 @@ Check the solution is this **[File](https://github.com/DimKaisaris/Exercises-in-
 ![shot1](images/shot1.png)
 
 ## 2) Descriptive statistics
-In this exercise I calculate many statistics using functions as : min, max,  
+In this exercise, I calculate many statistics using functions as min, max,  
 average, var.p and validate them using the data analysis tool!  
-Also I calculated and plotted CDF,PDF
+Also, I calculated and plotted CDF,PDF
 Check the solution **[Here](https://github.com/DimKaisaris/Exercises-in-Excel/blob/main/processed%20files/set2.xlsx)**
 
 ![sho2](images/shot2.png)
